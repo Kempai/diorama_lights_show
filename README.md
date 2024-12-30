@@ -44,7 +44,7 @@ Matériel requis :
 
 ![wiring](https://github.com/user-attachments/assets/a413d0cc-a2b7-476d-9c95-3289c66a81b9)
 
-This is a diorama illumination project created for a Batman diorama from the Sanix3D studio
+
 UK version : 
 
 This is a diorama illumination project created for a Batman diorama by Sanix3D studio.
