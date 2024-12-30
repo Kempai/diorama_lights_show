@@ -1,5 +1,7 @@
 # diorama_lights_show
 
+https://github.com/user-attachments/assets/10516d1f-11fa-47d6-9917-15e2be557e1b
+
 FR version (for english see above)  : 
 
 Ceci est un projet d'illumination d'un diorama réalisé pour un diorama de Batman du studio Sanix3D.
@@ -35,6 +37,7 @@ Matériel requis :
 - gaines thermorétractables
 - fer a souder
 
+![wiring](https://github.com/user-attachments/assets/a413d0cc-a2b7-476d-9c95-3289c66a81b9)
 
 This is a diorama illumination project created for a Batman diorama from the Sanix3D studio
 UK version : 
