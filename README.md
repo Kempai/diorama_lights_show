@@ -47,6 +47,8 @@ Matériel requis :
 
 ![wiring](https://github.com/user-attachments/assets/a413d0cc-a2b7-476d-9c95-3289c66a81b9)
 
+![synoptique](https://github.com/user-attachments/assets/437ae66c-704c-4b3e-a3df-e48f508ff34f)
+
 
 UK version : 
 
