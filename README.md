@@ -27,6 +27,7 @@ Fonctions :
 - Une séquence d'animation sympa lors du démarrage
 - Un bouton permettant de contrôler les leds de 0%, 25, 50, 75 à 100%
 - Ecran OLED : Un affichage des portraits des grands méchants en lecture en boucle, l'affichage est interrompu pour afficher les % de luminosité lorsque le bouton est pressé
+![Capture d'écran 2024-12-30 134928](https://github.com/user-attachments/assets/4518f7a4-5896-4a0d-b0bb-17e1eb129d17)
 - Un bouton pour allumer et éteindre le Batsignal (il clignote lorsqu'on reste appuyé sur le bouton)
 
 Matériel requis :
@@ -65,6 +66,7 @@ Features :
 - A cool animation sequence on start-up
 - A button to control LEDs from 0%, 25, 50, 75 to 100%.
 - OLED screen: a looping display of the big villains' portraits, interrupted to show % brightness when the button is pressed.
+![Capture d'écran 2024-12-30 134928](https://github.com/user-attachments/assets/4518f7a4-5896-4a0d-b0bb-17e1eb129d17)
 - A button for switching the Batsignal on and off (it flashes when the button is held down)
 
 Hardware requirements:
