@@ -1,6 +1,6 @@
 # diorama_lights_show
 
-![IMG_3435](https://github.com/user-attachments/assets/00ec5a5a-f3a9-4af4-8d59-b646937b17b5)
+![IMG_3435](https://github.com/user-attachments/assets/2b5880aa-d0f0-41dd-9a71-247abc7f34e2)
 
 https://github.com/user-attachments/assets/10516d1f-11fa-47d6-9917-15e2be557e1b
 
