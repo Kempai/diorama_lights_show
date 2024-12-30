@@ -1,6 +1,11 @@
 # diorama_lights_show
 
+![IMG_3435](https://github.com/user-attachments/assets/00ec5a5a-f3a9-4af4-8d59-b646937b17b5)
+
 https://github.com/user-attachments/assets/10516d1f-11fa-47d6-9917-15e2be557e1b
+
+https://github.com/user-attachments/assets/8a2fed1f-3e1d-4d94-8421-010b54deb649
+
 
 FR version (for english see above)  : 
 
@@ -17,7 +22,7 @@ Il emploie les librairies suivantes :
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_GFX.h>
 
-Il consiste en une animation de démarrage affichant le nom de notre studio de création, suivit d'une séquence d'animation des leds. Puis l'ensemble des leds est ensuite pilotable via des boutons, l'écran lui fait défiler les portraits des grands méchants du comic.
+Il consiste en une animation de démarrage affichant le nom de notre studio de création, KAGEPAI STUDIO, suivit d'une séquence d'animation des leds. Puis l'ensemble des leds est ensuite pilotable via des boutons, l'écran lui fait défiler les portraits des grands méchants du comic.
 Fonctions :
 - Une séquence d'animation sympa lors du démarrage
 - Un bouton permettant de contrôler les leds de 0%, 25, 50, 75 à 100%
@@ -55,7 +60,7 @@ It uses the following libraries:
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_GFX.h>
 
-It consists of a startup animation displaying the name of our design studio, followed by a sequence of LED animations. All the leds can then be controlled via buttons, while the screen scrolls through the portraits of the comic's great villains.
+It consists of a startup animation displaying the name of our design studio, KAGEPAI STUDIO, followed by a sequence of LED animations. All the leds can then be controlled via buttons, while the screen scrolls through the portraits of the comic's great villains.
 Features :
 - A cool animation sequence on start-up
 - A button to control LEDs from 0%, 25, 50, 75 to 100%.
