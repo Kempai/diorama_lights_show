@@ -49,7 +49,8 @@ Matériel requis :
 
 ![synoptique](https://github.com/user-attachments/assets/b18a80cc-3878-4053-873c-c258b98239ac)
 
-https://github.com/user-attachments/assets/0304068b-fa49-4e0f-9e1a-4b74afe384da
+https://github.com/user-attachments/assets/b9c783d8-8d70-4451-9864-966c9181bd29
+
 
 UK version : 
 
@@ -93,4 +94,4 @@ Hardware requirements:
 
 ![synoptique](https://github.com/user-attachments/assets/b18a80cc-3878-4053-873c-c258b98239ac)
 
-https://github.com/user-attachments/assets/0304068b-fa49-4e0f-9e1a-4b74afe384da
+https://github.com/user-attachments/assets/625c4e7b-3b26-4c6e-9c76-bd7176528eef
