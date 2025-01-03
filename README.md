@@ -49,7 +49,7 @@ Matériel requis :
 
 ![synoptique](https://github.com/user-attachments/assets/b18a80cc-3878-4053-873c-c258b98239ac)
 
-
+https://github.com/user-attachments/assets/0304068b-fa49-4e0f-9e1a-4b74afe384da
 
 UK version : 
 
@@ -88,3 +88,9 @@ Hardware requirements:
 - cables
 - heat-shrink tubing
 - soldering iron
+
+![wiring](https://github.com/user-attachments/assets/a413d0cc-a2b7-476d-9c95-3289c66a81b9)
+
+![synoptique](https://github.com/user-attachments/assets/b18a80cc-3878-4053-873c-c258b98239ac)
+
+https://github.com/user-attachments/assets/0304068b-fa49-4e0f-9e1a-4b74afe384da
